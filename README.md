@@ -1,5 +1,6 @@
 
-### Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+### Hi there ![wave](https://github.com/MariaBeatriceNamatovu/MariaBeatriceNamatovu/assets/125874379/7a5e43ef-4bd6-453a-be77-c3487799528d)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Maria+Beatrice.+;I'm+a+Junior+Software+Engineer+;and+UI+Designer.)](https://git.io/typing-svg)
@@ -11,13 +12,16 @@
 😄Some technologies I love working with are Javascript, Python, and CSS. 
 🔭I am currently working as an OpenSource contributor with GirlScript Summer of Code to build real-world projects and create an impact in the world of technology.
 
-https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif Fun Fact: I enjoy creating UI designs for mobile, web, and graphics
+![fire](https://github.com/MariaBeatriceNamatovu/MariaBeatriceNamatovu/assets/125874379/74c9d52f-803d-446a-a638-af20a058fa7b)  Fun Fact: I enjoy creating UI designs for mobile, web, and graphics
 
 
 
 
 
-![image](https://github.com/MariaBeatriceNamatovu/MariaBeatriceNamatovu/assets/125874379/b9ca7e26-c6d4-417a-a61a-a3bf4828abb8)   ![image](https://github.com/MariaBeatriceNamatovu/MariaBeatriceNamatovu/assets/125874379/38754d9d-6404-4f25-bbc6-f746d560cb71)
+
+![image](https://github.com/MariaBeatriceNamatovu/MariaBeatriceNamatovu/assets/125874379/aef49873-d32b-4f35-b537-f1889c7ee14d)        ![image](https://github.com/MariaBeatriceNamatovu/MariaBeatriceNamatovu/assets/125874379/5db5a11d-f758-4bdb-8ea2-fce5198e1a88)
+
+
 
 
 ##Connect with me
