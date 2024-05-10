@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Maria Beatrice.
+I'm a junior software engineer, data analyst, and UI designer passionate about AI and Cybersecurity. I enjoy building user-intuitive interfaces that deliver high-end user experiences and are fun. 
+Some technologies I love working with are Javascript, Python, and CSS. I am currently working as an OpenSource contributor with GirlScript Summer of Code to build real-world projects and create an impact in the world of technology.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaBeatriceNamatovu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MariaBeatriceNamatovu/MariaBeatriceNamatovu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
