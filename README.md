@@ -22,7 +22,7 @@
 
 
 
-•	Connect with me 🤝
+##Connect with me 🤝:
 
 
 
