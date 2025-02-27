@@ -2,31 +2,26 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Maria+Beatrice.+;I'm+a+Junior+Software+Engineer+;and+UI+Designer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Maria+Beatrice.+;I'm+a+Junior+Software+Engineer+;and+Automation+Developer.)](https://git.io/typing-svg)
 
 ## 🌟About Me
-•	🧑‍💻I'm a junior software engineer, data analyst, and UI designer.
+•	🧑‍💻I'm a junior software engineer and automation developer.
 
-•	🌱I'm passionate about AI and Cybersecurity. 
-
+•	🌱I'm passionate about AI and intelligent automation. 
 
 •	😄I enjoy building user-intuitive interfaces that deliver high-end and fun user experiences.
  
-•	😄Some technologies I love working with are Javascript, Python, and CSS. 
+•	😄Some technologies I love working with are Azure AI, Langchain, Power Apps, and Power Automate. 
 
 
-•	🔭I am currently working as an OpenSource contributor with GirlScript Summer of Code to build real-world projects and create an impact in the world of technology.
+•	🔭I am currently working as an intelligent automation developer that works with Power Platform, Langchain, Azure AI and RAG to develop smart automations to enhance efficiency in business workflows.
 
 
-•	🔥 Fun Fact: I enjoy creating UI designs for mobile, web, and graphics
+•	🔥 Fun Fact: I enjoy building automation for business process and developing agentic AI.
 
 
 
 Connect with me 🤝:
-
-
-
-•	🏀: https://dribbble.com/TrisaMarie (for my UI Designs)
 
 •	🌐: https://www.linkedin.com/in/mariabeatricenamatovu
 
