@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Beatrice+;I'm+an+Intelligent-Automation+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Maria+Beatrice+;I'm+an+Intelligent-Automation+Developer+;)](https://git.io/typing-svg)
 
 ## 🌟About Me
 •	🧑‍💻I'm a junior software engineer and automation developer.
