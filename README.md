@@ -17,7 +17,7 @@
 •	🔭I am currently working as an intelligent automation developer that works with Power Platform, Langchain, Azure AI and RAG to develop smart automations to enhance efficiency in business workflows.
 
 
-•	🔥 Fun Fact: I enjoy building automation for business process and developing agentic AI.
+•	🔥 Fun Fact: I enjoy building automation for business processes and developing agentic AI.
 
 
 
