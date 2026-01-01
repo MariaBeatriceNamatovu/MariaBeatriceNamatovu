@@ -25,7 +25,7 @@ Connect with me 🤝:
 
 •	🌐: https://www.linkedin.com/in/mariabeatricenamatovu
 
-Porfolio:
+Portfolio:
 https://mariabeatricenamatovu.github.io/projectportfolio/
 
 
